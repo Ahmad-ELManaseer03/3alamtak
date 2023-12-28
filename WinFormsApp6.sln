@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp6", "WinFormsApp6\WinFormsApp6.csproj", "{0B8B11C3-D936-4E70-9ACD-8B5F228E2C0D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "3alamtak", "3alamtak\3alamtak.vdproj", "{655D3B04-3CAF-4D06-B957-4F444C84C7A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8B11C3-D936-4E70-9ACD-8B5F228E2C0D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8B11C3-D936-4E70-9ACD-8B5F228E2C0D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0B8B11C3-D936-4E70-9ACD-8B5F228E2C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8B11C3-D936-4E70-9ACD-8B5F228E2C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655D3B04-3CAF-4D06-B957-4F444C84C7A3}.Debug|Any CPU.ActiveCfg = Release
+		{655D3B04-3CAF-4D06-B957-4F444C84C7A3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE2959D4-16F8-4532-9ED8-406B324CF3B5}
+	EndGlobalSection
+EndGlobal
